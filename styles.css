@@ -1,0 +1,41 @@
+input {
+  height: 10px;
+  padding: 10px;
+  font-size: 25px;
+
+  font-family: 'VT323', monospace;
+}
+
+p {
+    font-family: 'VT323', monospace;
+    font-size:23px;
+}
+span {
+  color:#ff91a1;
+  font-family: 'VT323', monospace;
+}
+
+.buttons {
+    display:flex;
+    justify-content:center;
+    }
+    
+    p {
+    text-align:center;
+}
+ 
+img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    height:150px;
+}
+
+
+button {
+    border-radius:30%;
+    background-color:#d8baff;
+    border: solid 1px purple;
+    font-family: 'VT323', monospace;
+    padding:8px;
+}
